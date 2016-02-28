@@ -11,6 +11,9 @@ Headings before MarkdownTOC tags will be ignored.
 
 <!-- /MarkdownTOC -->
 
+# 1. Hello World
+
+# 1. Hello 世界 World
 
 # Heading 1 #
 
