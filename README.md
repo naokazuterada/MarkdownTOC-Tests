@@ -1,8 +1,8 @@
 <!-- MarkdownTOC -->
 
-- [this has id \[id\]P][this-has-id-idp]
-- [function(foo\[, bar\])][functionfoo-bar]
-- [aaaaafgasg][aaaaafgasg]
+- [this has id \[id\]P](#this-has-id-idp)
+- [function(foo\[, bar\])](#functionfoo-bar)
+- [aaaaafgasg](#aaaaafgasg)
 
 <!-- /MarkdownTOC -->
 
