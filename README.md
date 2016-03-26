@@ -1,32 +1,16 @@
-# Heading 0
+<!-- MarkdownTOC -->
 
-Headings before MarkdownTOC tags will be ignored.
-
-<!-- MarkdownTOC autolink=true bracket=round -->
-
-- [Heading 1 #](#heading-1-)
-  - [Heading 2](#heading-2)
-  - [Heading 3](#heading-3)
-- [Heading with anchor](#with-anchor)
+- [this has id \[id\]P][this-has-id-idp]
+- [function(foo\[, bar\])][functionfoo-bar]
+- [aaaaafgasg][aaaaafgasg]
 
 <!-- /MarkdownTOC -->
 
-# 1. Hello World
 
-# 1. Hello 世界 World
+# this has id [id]P
+# function(foo[, bar])
 
-# Heading 1 #
+# aaaaafgasg
 
-...
 
-## Heading 2
-
-...
-
-## Heading 3
-
-...
-
-# Heading with anchor [with-anchor]
-
-...
+function(foo\[, bar\])
