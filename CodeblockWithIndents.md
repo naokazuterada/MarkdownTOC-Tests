@@ -9,7 +9,7 @@
 <a name="heading-1"></a>
 # Heading 1
  ```
-  Blockquote 1 - notice the leading space ( ) for opening blockquote, and no-space for closing
+Blockquote 1 - notice the leading space ( ) for opening blockquote, and no-space for closing
 ```
 
 <a name="heading-2-will-be-missing"></a>
