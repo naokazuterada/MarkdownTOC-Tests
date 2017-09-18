@@ -1,6 +1,6 @@
 <!-- MarkdownTOC autolink="true" bracket="round" uri_encoding="true" -->
 
-- [!Check icon Something to do](#check-icon-something-to-do)
+- [!Check iconSomething to do](#check-iconsomething-to-do)
 - [English Example](#english-example)
 - [Ejemplos de español](#ejemplos-de-espa%C3%B1ol)
 - [Примеры русского](#%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D1%8B-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE)
@@ -9,7 +9,7 @@
 
 <!-- /MarkdownTOC -->
 
-# ![Check icon](check-icon.png) Something to do
+# ![Check icon](check-icon.png)Something to do
 
 # English Example
 
