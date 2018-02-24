@@ -1,9 +1,8 @@
-<!-- MarkdownTOC autolink=false autoanchor=true -->
+<!-- MarkdownTOC autolink="true" bracket="round" -->
 
-- Without autolink issue
+- [variable \](#required\)
 
 <!-- /MarkdownTOC -->
 
 
-<a id="Without autolink issue"></a>
-# Without autolink issue
+# variable \[required\]
