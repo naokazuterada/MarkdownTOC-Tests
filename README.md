@@ -1,11 +1,9 @@
-<!-- MarkdownTOC autolink="true" bracket="round" uri_encoding="true" -->
+<!-- MarkdownTOC autolink=false autoanchor=true -->
 
-- [ Something to do](#-something-to-do)
+- Without autolink issue
 
 <!-- /MarkdownTOC -->
 
-# ![Check icon](check-icon.png) Something to do
 
-test
-
-test
+<a id="Without autolink issue"></a>
+# Without autolink issue
