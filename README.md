@@ -49,3 +49,6 @@
 # 2 test _x_
 # 3 test _x
 # 4 test x_
+
+
+# variable \ required
