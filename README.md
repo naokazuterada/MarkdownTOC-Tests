@@ -56,3 +56,11 @@
 ---
 
 # `get_context(key[, operator][, operand][, match_all])`
+
+# 1 test_x
+# 2 test _x_
+# 3 test __x__
+# 4 test *x*
+# 5 test **x**
+# 6 test _x
+# 7 test x_
