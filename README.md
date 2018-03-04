@@ -52,3 +52,7 @@
 
 
 # variable \ required
+
+---
+
+# `get_context(key[, operator][, operand][, match_all])`
