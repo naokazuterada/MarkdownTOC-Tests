@@ -1,9 +1,7 @@
 <!-- MarkdownTOC autolink="true" -->
 
-- [I have some text: in _italics_](#i-have-some-text-in-_italics_)
+- [Test: _italics_ _this is also italics_ _ not italics_ _not italics _ _ not italics _](#test-_italics_-_this-is-also-italics_-_-not-italics_-_not-italics-_-_-not-italics-_)
 
 <!-- /MarkdownTOC -->
 
-
-
-# I have some text: in _italics_
+# Test: _italics_ _this is also italics_ _ not italics_ _not italics _ _ not italics _
