@@ -6,12 +6,12 @@
 
 - [this is _italic_](#this-is-italic)
 - [_this is italic_](#this-is-italic-1)
-- [_this is not italic __](#this-is-not-italic-_)
+- [_this is not italic __](#_this-is-not-italic-__)
 - [this _is italic_](#this-is-italic-2)
-- [_ this is not italic _](#-this-is-not-italic-)
-- [2 _ this is not italic _](#2--this-is-not-italic-)
-- [_this is not italic with markdown error _](#this-is-not-italic-with-markdown-error-)
-- [2 _this is not italic with markdown error _](#2-this-is-not-italic-with-markdown-error-)
+- [_ this is not italic _](#_-this-is-not-italic-_)
+- [2 _ this is not italic _](#2-_-this-is-not-italic-_)
+- [_this is not italic with markdown error _](#_this-is-not-italic-with-markdown-error-_)
+- [2 _this is not italic with markdown error _](#2-_this-is-not-italic-with-markdown-error-_)
 
 <!-- /MarkdownTOC -->
 
