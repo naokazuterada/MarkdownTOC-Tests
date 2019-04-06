@@ -13,6 +13,7 @@
 - [_this is not italic with markdown error _](#_this-is-not-italic-with-markdown-error-_)
 - [2 _this is not italic with markdown error _](#2-_this-is-not-italic-with-markdown-error-_)
 - [`_should ignore underscores in codeblocks_`](#should-ignore-underscores-in-codeblocks)
+- [`_should ignore underscores in codeblocks 2_ `](#should-ignore-underscores-in-codeblocks-2-)
 
 <!-- /MarkdownTOC -->
 
@@ -95,8 +96,16 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-
 # `_should ignore underscores in codeblocks_`
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+# `_should ignore underscores in codeblocks 2_ `
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
