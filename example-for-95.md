@@ -1,3 +1,8 @@
+# Example for Issue 95
+
+[#95](https://github.com/naokazuterada/MarkdownTOC/issues/95)
+
+
 <!-- MarkdownTOC -->
 <ul>
   <li><a href="#introduction">Introduction</a></li>

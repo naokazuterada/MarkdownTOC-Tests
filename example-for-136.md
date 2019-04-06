@@ -1,4 +1,4 @@
-# This is Example for Issue 136
+# Example for Issue 136
 
 [#136](https://github.com/naokazuterada/MarkdownTOC/issues/136)
 
