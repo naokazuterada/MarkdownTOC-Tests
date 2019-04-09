@@ -1,6 +1,6 @@
-# Example for Issue 136
+# Example for Issue 137
 
-[#136](https://github.com/naokazuterada/MarkdownTOC/issues/136)
+[#137](https://github.com/naokazuterada/MarkdownTOC/issues/137)
 
 <!-- MarkdownTOC autolink="true" -->
 
